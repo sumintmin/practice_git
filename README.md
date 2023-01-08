@@ -9,3 +9,6 @@ $ git stash</br>
 $ git pull origin master</br>
  stash 명령어로 스택에 넣어둔 변경 사항을 적용하고, 스택에서 제거하여줍니다.</br>
 $ git stash pop</br>
+</br>
+https://coding-groot.tistory.com/110</br>
+
